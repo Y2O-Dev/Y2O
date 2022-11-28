@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Y2O-Dev
 - 👀 I’m interested in learning and perfecting my skills on cloud computing/DevOps engineering field.
 - 🌱 Currently learning AWS infrasturctures and DevOps tools and open to entry level roles in the respective fields.
-- 💞️ I'm open to productive links and collaborations
-- 📫 Can be reached: yakuboyusuf@gmail.com
+- :handshake: I'm open to collaborations and productive links  
+- :left_speech_bubble: yakuboyusuf@gmail.com
