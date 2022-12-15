@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Y2O-Dev
+- 👋 Hi, I’m YAKUB Yusuf O.
 - 👀 I’m interested in learning and perfecting my skills on cloud computing/DevOps engineering field.
 - 🌱 Currently learning AWS infrasturctures and DevOps tools and open to entry level roles in the respective fields.
 - :handshake: I'm open to collaborations and productive links  
